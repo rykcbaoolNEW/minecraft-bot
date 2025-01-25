@@ -94,7 +94,7 @@ function logCurrentWeather() {
 
     
     bot.once("spawn", async () => {
-        bot.chat("/register Savior Savior");
+        bot.chat("/login Savior");
         bot.setControlState('forward', true);
     });
 
