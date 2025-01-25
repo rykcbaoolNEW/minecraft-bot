@@ -1,3 +1,5 @@
+npm i mineflayer
+
 
 const mineflayer = require("mineflayer");
 const fs = require("fs");
