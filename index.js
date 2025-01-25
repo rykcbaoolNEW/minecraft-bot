@@ -15,7 +15,7 @@ function createBot() {
     const bot = mineflayer.createBot({
         host: "6b6t.org",
         port: 25565,
-        username: "SaviorsBot",
+        username: "SaviorsBest",
         auth: "offline",
         version: "1.20.1",
         keepAlive: true,
@@ -92,7 +92,7 @@ function logCurrentWeather() {
 
     
     bot.once("spawn", async () => {
-        bot.chat("/login SaviorBot");
+        bot.chat("/register Savior Savior");
         bot.setControlState('forward', true);
     });
 
