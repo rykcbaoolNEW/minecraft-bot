@@ -1,4 +1,4 @@
-npm i mineflayer
+
 
 
 const mineflayer = require("mineflayer");
